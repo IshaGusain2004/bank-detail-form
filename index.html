@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bank Details Form</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Bank Details Form</h1>
+  <form>
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required>
+    
+    <label for="account">Account Number:</label>
+    <input type="text" id="account" name="account" required>
+    
+    <label for="routing">Routing Number:</label>
+    <input type="text" id="routing" name="routing" required>
+    
+    <label for="address">Address:</label>
+    <input type="text" id="address" name="address" required>
+    
+    <label for="city">City:</label>
+    <input type="text" id="city" name="city" required>
+    
+    <label for="state">State:</label>
+    <input type="text" id="state" name="state" required>
+    
+    <label for="zip">Zip Code:</label>
+    <input type="text" id="zip" name="zip" required>
+    
+    <label for="country">Country:</label>
+    <input type="text" id="country" name="country" required>
+    
+    <label for="phone">Phone Number:</label>
+    <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+    
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required>
+    
+    <input type="submit" value="Submit">
+  </form>
+</body>
+</html>
