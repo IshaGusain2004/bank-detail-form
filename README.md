@@ -1,5 +1,5 @@
 # bank-detail-form
-**Bank Details Form**\
+**Bank Details Form**
 
 This is a simple HTML/CSS code for a bank details form. It includes fields for the user's name, account number, routing number, address, city, state, zip code, country, phone number, and email address.
 
