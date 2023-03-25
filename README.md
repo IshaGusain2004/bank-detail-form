@@ -6,14 +6,14 @@ This is a simple HTML/CSS code for a bank details form. It includes fields for t
 **Getting Started**
 To use this code, simply copy and paste the HTML and CSS code into your own project. You can modify the form fields as needed to fit your specific use case.
 
-**Prerequisites
+**Prerequisites**
 No prerequisites are required to use this code.
 
-**Built With
+**Built With**
 HTML
 CSS
 
-**Author
+**Author**
 Isha Gusain
 
 
